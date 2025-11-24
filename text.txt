@@ -1,0 +1,8 @@
+Java script is a programing language of a web.
+Easy to lern.
+Case Sensitive.
+
+Variabels are containers for data.
+let
+Var
+const
