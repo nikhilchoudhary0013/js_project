@@ -6,3 +6,9 @@ Variabels are containers for data.
 let
 Var
 const
+
+operators are logical and mathematical information of a data.
+type of operators 
+1.Assignment operators.
+2.Arithmetic operators.
+3.Logical operators.
