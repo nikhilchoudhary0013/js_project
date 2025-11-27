@@ -12,3 +12,14 @@ type of operators
 1.Assignment operators.
 2.Arithmetic operators.
 3.Logical operators.
+
+conditional statment run code depending on true and false condition.
+types of con.
+1.if 
+2.if..else
+3.if..else if..else
+4.switch
+5.Ternary
+
+condition is true execute if block.
+condition is false execute else block.
