@@ -19,3 +19,12 @@ Mul(2,2);
 
 
 
+// Object
+
+const stu ={
+    s_name: "nikhil",
+    l_name:"choudhary",
+    age:20,
+
+};
+console.log(stu .s_name);
