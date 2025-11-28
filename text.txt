@@ -6,3 +6,24 @@ Variabels are containers for data.
 let
 Var
 const
+
+
+Array
+
+Array is collection of data(dif=dif type).
+Array methods 
+Length.
+short().
+push().
+pop().
+concat().
+revers().
+
+Sets collection of unique value.
+methods.
+add().
+delete().
+clear().
+
+Maps 
+A Map object holds key-value pairs.
