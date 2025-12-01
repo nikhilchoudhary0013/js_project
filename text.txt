@@ -8,6 +8,7 @@ Var
 const
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 operators are logical and mathematical information of a data.
 type of operators 
 1.Assignment operators.
@@ -42,3 +43,28 @@ type of function
 
 Object is collection of keyvalue pairs.
 >>>>>>> loops
+=======
+
+Array
+
+Array is collection of data(dif=dif type).
+Array methods 
+Length.
+short().
+push().
+pop().
+concat().
+revers().
+
+Sets collection of unique value.
+methods.
+add().
+delete().
+clear().
+
+Maps 
+A Map object holds key-value pairs.
+
+Regular Exp
+regexp is a sequence of characters 
+>>>>>>> Array
