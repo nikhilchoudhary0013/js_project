@@ -27,3 +27,6 @@ clear().
 
 Maps 
 A Map object holds key-value pairs.
+
+Regular Exp
+regexp is a sequence of characters 
