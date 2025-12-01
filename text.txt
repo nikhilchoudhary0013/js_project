@@ -7,6 +7,7 @@ let
 Var
 const
 
+<<<<<<< HEAD
 operators are logical and mathematical information of a data.
 type of operators 
 1.Assignment operators.
@@ -23,3 +24,21 @@ types of con.
 
 condition is true execute if block.
 condition is false execute else block.
+=======
+loops can execute block of code a number of time
+type of loops
+1.for
+2.while
+3.do while
+4.foreach
+
+Strins is secquence of characters(""),('').
+
+function reusable block of code.
+type of function
+1.Parameters
+2.Function Expressions
+3.Arrows function
+
+Object is collection of keyvalue pairs.
+>>>>>>> loops
