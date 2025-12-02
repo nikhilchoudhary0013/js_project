@@ -68,3 +68,11 @@ A Map object holds key-value pairs.
 Regular Exp
 regexp is a sequence of characters 
 >>>>>>> Array
+
+
+JSON is javascript object ,storing and transporting data for easy formate.
+json is used to send ,receive
+
+json method 
+1.stringify (object to json).
+2.parse (json to object).
