@@ -68,3 +68,17 @@ A Map object holds key-value pairs.
 Regular Exp
 regexp is a sequence of characters 
 >>>>>>> Array
+
+
+API (application programing interface).
+web validation api 
+1.checkValidation().
+property
+1.Overflow
+2.underflow
+
+API storage 
+ localstorage ,This is very easy way to storage and reterive data in the browser.
+ API Methods 
+ 1.getitem():- Reterive data item.
+ 2.setitem():- Store data item.
